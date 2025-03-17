@@ -1,7 +1,9 @@
 # CATopalian JavaScript Earth
 A JavaScript application that allows the person to map the Earth with longitude and latitude and place markers with notes anywhere on the map.
 
-USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html  
+
+If you enjoy my apps and tutorials please consider buying me a coffee at paypal.me/keystonermarch
 
 ---
 

@@ -5,8 +5,6 @@ USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)  
 
-If you enjoy my apps and tutorials please consider buying me a coffee at paypal.me/keystonermarch
-
 ---
 
 ### How to Download this App
@@ -19,3 +17,4 @@ If you enjoy my apps and tutorials please consider buying me a coffee at paypal.
 ---
 
 Happy Scripting :-)
+

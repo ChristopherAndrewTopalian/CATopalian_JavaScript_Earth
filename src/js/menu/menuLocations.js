@@ -14,9 +14,9 @@ function menuLocations(whichArray)
     menuLocationsDiv.id = 'menuLocationsDiv';
     menuLocationsDiv.style.position = 'fixed';
     menuLocationsDiv.style.right = 5 + 'px';
-    menuLocationsDiv.style.top = 20 + 'px';
+    menuLocationsDiv.style.top = 23 + 'px';
     menuLocationsDiv.style.width = 200 + 'px';
-    menuLocationsDiv.style.height = 380 + 'px';
+    menuLocationsDiv.style.height = '270px';
     menuLocationsDiv.style.overflowY = 'scroll';
     menuLocationsDiv.style.borderStyle = 'solid';
     menuLocationsDiv.style.borderWidth = 1 + 'px';
@@ -81,7 +81,7 @@ function menuLocations(whichArray)
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
